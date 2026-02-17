@@ -122,4 +122,3 @@ INSERT INTO VENDOR VALUES('25595','Rubicon Systems','Orton','904','456-0092','FL
 
 
 
-Add SQL from Word document
